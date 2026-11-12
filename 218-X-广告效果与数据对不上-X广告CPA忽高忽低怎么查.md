@@ -1,4 +1,15 @@
+---
+title: "X广告CPA忽高忽低怎么查？"
+description: "按日期、受众和素材拆分，检查转化量是否足够以及是否有追踪中断。"
+primary_keyword: "X广告CPA忽高忽低怎么查"
+related_keywords: ["广告CPA忽高忽低怎么查", "广告效果与数据对不上", "点击、转化、曝光差异和预算诊断"]
+---
+
 # X广告CPA忽高忽低怎么查？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：点击、转化、曝光差异和预算诊断
 > 用户痛点：X Ads 数据与网站分析工具不一致，点击多但转化少，广告花费和账户后台报表看起来不同。

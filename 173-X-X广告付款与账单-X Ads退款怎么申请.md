@@ -1,4 +1,15 @@
+---
+title: "X Ads退款怎么申请？"
+description: "通过官方 Ads Help 提交退款请求，附交易编号和问题说明；是否退款由平台调查与规则决定。"
+primary_keyword: "X Ads退款怎么申请"
+related_keywords: ["Ads退款怎么申请", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X Ads退款怎么申请？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

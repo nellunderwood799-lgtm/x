@@ -1,4 +1,15 @@
+---
+title: "X账号一直弹CAPTCHA怎么办？"
+description: "确认浏览器支持 Cookie、没有拦截必要脚本；完成 CAPTCHA 后暂停自动化或高频操作。"
+primary_keyword: "X账号一直弹CAPTCHA怎么办"
+related_keywords: ["账号一直弹CAPTCHA怎么办", "账号锁定与功能限制", "CAPTCHA、只读、无法发帖和临时限制"]
+---
+
 # X账号一直弹CAPTCHA怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：CAPTCHA、只读、无法发帖和临时限制
 > 用户痛点：用户看到锁定、只读、验证码或功能暂时不可用，不清楚是安全验证还是规则限制。

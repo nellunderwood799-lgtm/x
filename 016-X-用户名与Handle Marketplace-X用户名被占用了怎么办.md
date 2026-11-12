@@ -1,4 +1,15 @@
+---
+title: "X用户名被占用了怎么办？"
+description: "检查拼写和可用变体；若目标名称非常重要，查看官方 Handle Marketplace 的可用列表与资格条件。"
+primary_keyword: "X用户名被占用了怎么办"
+related_keywords: ["用户名被占用了怎么办", "用户名与Handle Marketplace", "用户名占用、品牌保护及官方用户名转移"]
+---
+
 # X用户名被占用了怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：用户名占用、品牌保护及官方用户名转移
 > 用户痛点：用户想要品牌或个人用户名，常遇到名称已占用、非活跃账号、商标冒用与第三方高价兜售。

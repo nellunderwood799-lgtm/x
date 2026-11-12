@@ -1,4 +1,15 @@
+---
+title: "X发AI视频需要标注吗？"
+description: "按 X 对相关主题和合成媒体的现行披露要求处理，特别核对官方页面的敏感情境规则。"
+primary_keyword: "X发AI视频需要标注吗"
+related_keywords: ["发AI视频需要标注吗", "广告变现计划切换", "Creator Revenue Sharing停用与Original Content Rewards"]
+---
+
 # X发AI视频需要标注吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：Creator Revenue Sharing停用与Original Content Rewards
 > 用户痛点：创作者仍在搜索旧收益分成条件、收入突然变化或不知道新计划如何申请和计算。

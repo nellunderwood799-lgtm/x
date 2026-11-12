@@ -1,4 +1,15 @@
+---
+title: "X Ads和CRM线索数量不一样怎么办？"
+description: "定义有效线索规则，核对重复提交、垃圾流量、导入时间和表单字段映射。"
+primary_keyword: "X Ads和CRM线索数量不一样怎么办"
+related_keywords: ["Ads和CRM线索数量不一样怎么办", "广告效果与数据对不上", "点击、转化、曝光差异和预算诊断"]
+---
+
 # X Ads和CRM线索数量不一样怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：点击、转化、曝光差异和预算诊断
 > 用户痛点：X Ads 数据与网站分析工具不一致，点击多但转化少，广告花费和账户后台报表看起来不同。

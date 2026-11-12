@@ -1,4 +1,15 @@
+---
+title: "X网页能登录但App不行怎么办？"
+description: "先确认网页端账号状态正常，再更新官方应用、检查系统时间和网络，必要时重新登录。"
+primary_keyword: "X网页能登录但App不行怎么办"
+related_keywords: ["网页能登录但App不行怎么办", "登录与密码找回", "忘记账号资料、重置密码及登录错误"]
+---
+
 # X网页能登录但App不行怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：忘记账号资料、重置密码及登录错误
 > 用户痛点：用户忘记用户名、绑定邮箱或密码，重置链接不来、已登录设备和新设备状态不一致。

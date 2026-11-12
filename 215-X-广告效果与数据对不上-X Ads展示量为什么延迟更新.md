@@ -1,4 +1,15 @@
+---
+title: "X Ads展示量为什么延迟更新？"
+description: "平台报表可能需要处理时间；按官方数据说明等待报告定稿后再做结论。"
+primary_keyword: "X Ads展示量为什么延迟更新"
+related_keywords: ["Ads展示量为什么延迟更新", "广告效果与数据对不上", "点击、转化、曝光差异和预算诊断"]
+---
+
 # X Ads展示量为什么延迟更新？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：点击、转化、曝光差异和预算诊断
 > 用户痛点：X Ads 数据与网站分析工具不一致，点击多但转化少，广告花费和账户后台报表看起来不同。

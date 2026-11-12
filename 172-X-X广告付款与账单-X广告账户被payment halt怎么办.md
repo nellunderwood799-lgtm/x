@@ -1,4 +1,15 @@
+---
+title: "X广告账户被payment halt怎么办？"
+description: "查找支付资料不一致、失败付款或拒付记录；通过官方支持渠道提交说明和所需凭证。"
+primary_keyword: "X广告账户被payment halt怎么办"
+related_keywords: ["广告账户被payment halt怎么办", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X广告账户被payment halt怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

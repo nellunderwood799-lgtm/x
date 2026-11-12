@@ -1,4 +1,15 @@
+---
+title: "X Ads更换默认卡怎么操作？"
+description: "在 Billing 的 Payment Methods 添加或选择有效卡，并确认默认方式后再恢复活动。"
+primary_keyword: "X Ads更换默认卡怎么操作"
+related_keywords: ["Ads更换默认卡怎么操作", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X Ads更换默认卡怎么操作？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

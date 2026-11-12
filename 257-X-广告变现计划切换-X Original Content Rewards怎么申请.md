@@ -1,4 +1,15 @@
+---
+title: "X Original Content Rewards怎么申请？"
+description: "在 Creator Studio 的 Original Content Rewards 查看账号资格并按页面步骤申请。"
+primary_keyword: "X Original Content Rewards怎么申请"
+related_keywords: ["Original Content Rewards怎么申请", "广告变现计划切换", "Creator Revenue Sharing停用与Original Content Rewards"]
+---
+
 # X Original Content Rewards怎么申请？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：Creator Revenue Sharing停用与Original Content Rewards
 > 用户痛点：创作者仍在搜索旧收益分成条件、收入突然变化或不知道新计划如何申请和计算。

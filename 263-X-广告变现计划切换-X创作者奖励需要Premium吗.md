@@ -1,4 +1,15 @@
+---
+title: "X创作者奖励需要Premium吗？"
+description: "不要凭旧收益分成条件判断；核对 Original Content Rewards 当前官方资格页和账户内状态。"
+primary_keyword: "X创作者奖励需要Premium吗"
+related_keywords: ["创作者奖励需要Premium吗", "广告变现计划切换", "Creator Revenue Sharing停用与Original Content Rewards"]
+---
+
 # X创作者奖励需要Premium吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：Creator Revenue Sharing停用与Original Content Rewards
 > 用户痛点：创作者仍在搜索旧收益分成条件、收入突然变化或不知道新计划如何申请和计算。

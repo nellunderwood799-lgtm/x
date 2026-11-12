@@ -1,4 +1,15 @@
+---
+title: "X App能登录但浏览器不行怎么办？"
+description: "检查浏览器 Cookie、扩展和缓存；用干净的浏览器窗口访问官方域名。"
+primary_keyword: "X App能登录但浏览器不行怎么办"
+related_keywords: ["App能登录但浏览器不行怎么办", "登录与密码找回", "忘记账号资料、重置密码及登录错误"]
+---
+
 # X App能登录但浏览器不行怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：忘记账号资料、重置密码及登录错误
 > 用户痛点：用户忘记用户名、绑定邮箱或密码，重置链接不来、已登录设备和新设备状态不一致。

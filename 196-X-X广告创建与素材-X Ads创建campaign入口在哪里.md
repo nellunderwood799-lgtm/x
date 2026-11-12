@@ -1,4 +1,15 @@
+---
+title: "X Ads创建campaign入口在哪里？"
+description: "登录 ads.x.com 并确认账户已完成设置；具体入口随当前 Ads Manager 界面显示。"
+primary_keyword: "X Ads创建campaign入口在哪里"
+related_keywords: ["Ads创建campaign入口在哪里", "X广告创建与素材", "活动目标、素材规格、权限和发布错误"]
+---
+
 # X Ads创建campaign入口在哪里？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：活动目标、素材规格、权限和发布错误
 > 用户痛点：广告主设置活动时看不到功能、帖子无法推广、素材上传失败或团队成员没有发布权限。

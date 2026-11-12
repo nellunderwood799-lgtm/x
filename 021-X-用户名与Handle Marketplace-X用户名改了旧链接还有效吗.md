@@ -1,4 +1,15 @@
+---
+title: "X用户名改了旧链接还有效吗？"
+description: "改名会影响用户识别和外部引用；更新官网、邮件签名、广告和社交资料，并提前通知受众。"
+primary_keyword: "X用户名改了旧链接还有效吗"
+related_keywords: ["用户名改了旧链接还有效吗", "用户名与Handle Marketplace", "用户名占用、品牌保护及官方用户名转移"]
+---
+
 # X用户名改了旧链接还有效吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：用户名占用、品牌保护及官方用户名转移
 > 用户痛点：用户想要品牌或个人用户名，常遇到名称已占用、非活跃账号、商标冒用与第三方高价兜售。

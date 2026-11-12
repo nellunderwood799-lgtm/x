@@ -1,4 +1,15 @@
+---
+title: "X搬运视频能参加Original Content Rewards吗？"
+description: "直接搬运、轻微修改或跨平台转载通常不符合原创定义；应创作本人内容或加入实质原创贡献并拥有使用权。"
+primary_keyword: "X搬运视频能参加Original Content Rewards吗"
+related_keywords: ["搬运视频能参加Original Content Rewards吗", "广告变现计划切换", "Creator Revenue Sharing停用与Original Content Rewards"]
+---
+
 # X搬运视频能参加Original Content Rewards吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：Creator Revenue Sharing停用与Original Content Rewards
 > 用户痛点：创作者仍在搜索旧收益分成条件、收入突然变化或不知道新计划如何申请和计算。

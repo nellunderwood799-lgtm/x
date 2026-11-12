@@ -1,4 +1,15 @@
+---
+title: "X Ads报表时间和当地时间不同怎么办？"
+description: "确认广告账户时区并转换报表日期边界，避免把跨日数据误判为少记或多记。"
+primary_keyword: "X Ads报表时间和当地时间不同怎么办"
+related_keywords: ["Ads报表时间和当地时间不同怎么办", "广告效果与数据对不上", "点击、转化、曝光差异和预算诊断"]
+---
+
 # X Ads报表时间和当地时间不同怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：点击、转化、曝光差异和预算诊断
 > 用户痛点：X Ads 数据与网站分析工具不一致，点击多但转化少，广告花费和账户后台报表看起来不同。

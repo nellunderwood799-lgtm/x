@@ -1,4 +1,15 @@
+---
+title: "X广告审核一直pending怎么办？"
+description: "检查账户是否处于审核状态并等待平台处理；确需跟进时提供活动 ID 走官方支持。"
+primary_keyword: "X广告审核一直pending怎么办"
+related_keywords: ["广告审核一直pending怎么办", "广告拒登与政策审核", "广告被拒、账号审核及修改后再审"]
+---
+
 # X广告审核一直pending怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：广告被拒、账号审核及修改后再审
 > 用户痛点：广告被拒后只看到笼统提示，不知道是素材、落地页、业务类别还是账号资格造成。

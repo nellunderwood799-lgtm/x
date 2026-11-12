@@ -1,4 +1,15 @@
+---
+title: "官方Handle Marketplace怎么申请？"
+description: "从 X 官方帮助页查看当前资格和申请入口；具体可用名单、费用和流程以账号内页面为准。"
+primary_keyword: "官方Handle Marketplace怎么申请"
+related_keywords: ["官方Handle Marketplace怎么申请", "用户名与Handle Marketplace", "用户名占用、品牌保护及官方用户名转移"]
+---
+
 # 官方Handle Marketplace怎么申请？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：用户名占用、品牌保护及官方用户名转移
 > 用户痛点：用户想要品牌或个人用户名，常遇到名称已占用、非活跃账号、商标冒用与第三方高价兜售。

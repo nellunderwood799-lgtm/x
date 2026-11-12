@@ -1,4 +1,15 @@
+---
+title: "X商标被占用能要求转回吗？"
+description: "商标投诉不等于自动获得用户名；按官方商标政策提交有效权利材料并等待平台审核。"
+primary_keyword: "X商标被占用能要求转回吗"
+related_keywords: ["商标被占用能要求转回吗", "用户名与Handle Marketplace", "用户名占用、品牌保护及官方用户名转移"]
+---
+
 # X商标被占用能要求转回吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：用户名占用、品牌保护及官方用户名转移
 > 用户痛点：用户想要品牌或个人用户名，常遇到名称已占用、非活跃账号、商标冒用与第三方高价兜售。

@@ -1,4 +1,15 @@
+---
+title: "X Ads发票在哪里下载？"
+description: "登录 ads.x.com，在 Billing 页面查看可用的账单或发票；账户设置未完成时部分栏目可能不显示。"
+primary_keyword: "X Ads发票在哪里下载"
+related_keywords: ["Ads发票在哪里下载", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X Ads发票在哪里下载？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

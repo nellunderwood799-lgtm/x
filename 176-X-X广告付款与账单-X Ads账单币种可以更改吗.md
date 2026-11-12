@@ -1,4 +1,15 @@
+---
+title: "X Ads账单币种可以更改吗？"
+description: "查看账户创建地区和 Billing 设置；若不可更改，向官方支持确认可行处理方式。"
+primary_keyword: "X Ads账单币种可以更改吗"
+related_keywords: ["Ads账单币种可以更改吗", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X Ads账单币种可以更改吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

@@ -1,4 +1,15 @@
+---
+title: "X Spaces能录制并发布回放吗？"
+description: "查看当前功能和所在地法律要求，活动前告知参与者录制及用途；并非所有 Space 都提供回放。"
+primary_keyword: "X Spaces能录制并发布回放吗"
+related_keywords: ["Spaces能录制并发布回放吗", "内容创作与链接发布", "帖子结构、外链点击和素材版权"]
+---
+
 # X Spaces能录制并发布回放吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：帖子结构、外链点击和素材版权
 > 用户痛点：内容没人读、外链点击低、长帖结构散、图片视频展示异常，或创作者不确定转载是否合规。

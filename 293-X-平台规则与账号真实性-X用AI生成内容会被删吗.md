@@ -1,4 +1,15 @@
+---
+title: "X用AI生成内容会被删吗？"
+description: "AI 内容仍须遵守 X Rules、版权和披露规定；特殊敏感情境需按当前规则标注。"
+primary_keyword: "X用AI生成内容会被删吗"
+related_keywords: ["用AI生成内容会被删吗", "平台规则与账号真实性", "虚假互动、账号真实性、版权和冒充处理"]
+---
+
 # X用AI生成内容会被删吗？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：虚假互动、账号真实性、版权和冒充处理
 > 用户痛点：用户担心误触平台操纵规则、内容被投诉、品牌被冒充或原创/版权边界不清。

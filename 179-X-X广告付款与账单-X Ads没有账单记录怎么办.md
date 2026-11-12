@@ -1,4 +1,15 @@
+---
+title: "X Ads没有账单记录怎么办？"
+description: "确认是否选择正确账户、付款方式是否验证、活动是否产生可计费费用。"
+primary_keyword: "X Ads没有账单记录怎么办"
+related_keywords: ["Ads没有账单记录怎么办", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X Ads没有账单记录怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

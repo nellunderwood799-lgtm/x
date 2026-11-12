@@ -1,4 +1,15 @@
+---
+title: "X Ads没有创建广告入口怎么办？"
+description: "检查是否已完成账户设置并添加有效支付方式，再确认账号地区、状态和权限。"
+primary_keyword: "X Ads没有创建广告入口怎么办"
+related_keywords: ["Ads没有创建广告入口怎么办", "X广告开户与资格", "广告账户资格、验证要求及无法开户"]
+---
+
 # X Ads没有创建广告入口怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：广告账户资格、验证要求及无法开户
 > 用户痛点：广告主找不到广告入口、账号不具备投放资格，或不清楚账号验证、公开状态和地区要求。

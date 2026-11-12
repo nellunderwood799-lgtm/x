@@ -1,4 +1,15 @@
+---
+title: "X Ads扣款争议该找谁？"
+description: "先保存 X 账单和银行记录；广告费用问题走 Ads Support，卡片授权问题也联系发卡机构。"
+primary_keyword: "X Ads扣款争议该找谁"
+related_keywords: ["Ads扣款争议该找谁", "X广告付款与账单", "付款方式、预授权、发票和账单异常"]
+---
+
 # X Ads扣款争议该找谁？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：付款方式、预授权、发票和账单异常
 > 用户痛点：卡片添加失败、账单预授权看不懂、发票找不到、账户因支付信息或失败付款暂停。

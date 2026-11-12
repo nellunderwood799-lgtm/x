@@ -1,4 +1,15 @@
+---
+title: "X Ads转化数和GA数据不一致怎么办？"
+description: "统一日期、时区、归因窗口和事件定义，再检查追踪标签是否重复或漏触发。"
+primary_keyword: "X Ads转化数和GA数据不一致怎么办"
+related_keywords: ["Ads转化数和GA数据不一致怎么办", "广告效果与数据对不上", "点击、转化、曝光差异和预算诊断"]
+---
+
 # X Ads转化数和GA数据不一致怎么办？
+
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
 
 > 搜索意图：点击、转化、曝光差异和预算诊断
 > 用户痛点：X Ads 数据与网站分析工具不一致，点击多但转化少，广告花费和账户后台报表看起来不同。
